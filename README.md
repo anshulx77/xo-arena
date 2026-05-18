@@ -31,4 +31,9 @@ This project was created to practice:
 
 ## Preview
 
-![Tic Tac Toe Preview](./public/preview.gif)
+<p align="center">
+  <img
+    src="./public/preview.gif"
+    alt="Tic Tac Toe Preview"
+  />
+</p>
